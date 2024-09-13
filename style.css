@@ -7,7 +7,7 @@
 body {
     font-family: "Montserrat", sans-serif;
     background-image: url(background.png);
-    height: 100vh;
+    
 }
  
 .navbar {
@@ -70,7 +70,6 @@ body {
 
 .art {
     width: 25%;
-    padding: 10px;
     border: 2px solid #f3f3f3;
     padding: 30px;
     align-items: center; 
@@ -114,7 +113,6 @@ footer p {
     display: flex;
     width: 100%;
     color: #ffffff;
-    text-align: center;
     justify-content: center;
     align-content: flex-end;
     font-size: 10px;
